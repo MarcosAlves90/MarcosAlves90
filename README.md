@@ -1,9 +1,9 @@
-### Olá! Prazer em tê-lo aqui! Eu sou o João Victor👋
+### 📌 Marcos Alves ao seu dispor! 
 
 
 - 🔭 Atualmente, trabalhando com Desenvolvimento Web
 - 🌱 Estou estudando Desenvolvimento Web, o trio de ouro, CSS, JS e HTML
-- 📫 Contate-me em: joaovictormorais2103@gmail.com
+- 📧 E-mail: MarcosAlves25@proton.me
 - ⚡ Fun fact: Meu filme favorito é: La La Land
 
 <div> 

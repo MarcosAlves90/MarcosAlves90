@@ -11,3 +11,7 @@
    <img height ="200em" src="https://github-readme-stats.vercel.app/api?username=marcosalves90&show_icons=true&theme=github_dark"</img>
    <img height ="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosalves90&layout=compact&theme=github_dark"></img>
 </div>
+
+<div>
+     <a href="https://twitter.com/KaSugari" target="_blank"> <img alt ="KaSugariTwitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
+</div>

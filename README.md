@@ -19,6 +19,6 @@
 <div>
      <a href="https://twitter.com/KaSugari" target="_blank"> <img alt ="KaSugariTwitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
       <a href="mailto:MarcosAlves25@proton.me" target="_blank"> <img alt ="KaSugariProtonMail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></img></a>
-            <a href="https://www.linkedin.com/in/marcosalveslopesjunior" target="_blank"> <img alt ="KaSugariLinkedIn" src="https://www.linkedin.com/in/marcosalveslopesjunior"></img></a>
+            <a href="https://www.linkedin.com/in/marcosalveslopesjunior" target="_blank"> <img alt ="KaSugariLinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
       
 </div>

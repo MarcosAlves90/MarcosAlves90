@@ -17,7 +17,7 @@
     <img align="center" alt="KaSugari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="KaSugari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="KaSugari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/967956966238466091/1035746158586368010/download20221005233724.png">
+   <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/967956966238466091/1035747819794997369/CobaltoPrancheta_14x.png?width=701&height=701">
 </div>
 
 ##

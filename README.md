@@ -22,3 +22,7 @@
             <a href="https://www.linkedin.com/in/marcosalveslopesjunior" target="_blank"> <img alt ="KaSugariLinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
       
 </div>
+
+<div>
+ ![Snake animation](https://github.com/marcosalves90/marcosalves90/blob/output/github-contribution-grid-snake.svg)
+</div>

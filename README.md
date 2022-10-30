@@ -18,7 +18,7 @@
   <img align="center" alt="KaSugari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="KaSugari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="KaSugari-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="KaSugari-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cs/cs-original.svg">
+  <img align="center" alt="KaSugari-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/967956966238466091/1035749546447339560/Avatar.png?width=701&height=701">
 </div>
 

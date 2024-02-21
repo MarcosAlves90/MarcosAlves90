@@ -9,8 +9,8 @@
 ##
 <div align="center">
   <a href="#">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosalves90&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosalves90&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marcosalves90&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="cursor: not-allowed;"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosalves90&layout=compact&langs_count=7&theme=dark" style="cursor: not-allowed;"/>
   </a>
 </div>
    

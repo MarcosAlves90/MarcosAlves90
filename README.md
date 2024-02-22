@@ -1,7 +1,7 @@
 ## 📌 Marcos Alves ao seu dispor! 
 
 
-- 📖 Cursando Desenvolvimento de Software Multiplataforma e Design Gráfico.
+- 📖 Estudando Desenvolvimento de Software Multiplataforma e Design Gráfico.
 - 📒 Técnico em Informática para Internet.
 - 📧 E-mail: MarcosAlves25@proton.me
 - 🪐 Fato curioso: Sou extremamente criativo.

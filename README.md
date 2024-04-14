@@ -19,9 +19,9 @@
   <img align="center" alt="KaSugari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="KaSugari-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="KaSugari-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="KaSugari-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="KaSugari-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
   <img align="center" alt="KaSugari-Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
-  <img align="center" alt="KaSugari-Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/967956966238466091/1210264709295644782/CobaltoPrancheta_14x-modified.png?ex=66181258&is=66059d58&hm=dadde1ecc496baf5a32ad59b834981bcf8f8c0fc55900d30d9fdfc4870f7f6d4&">
 </div>
 

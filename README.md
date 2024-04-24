@@ -23,6 +23,7 @@
   <img align="center" alt="KaSugari-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">
   <img align="center" alt="KaSugari-Illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
   <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/967956966238466091/1210264709295644782/CobaltoPrancheta_14x-modified.png?ex=66181258&is=66059d58&hm=dadde1ecc496baf5a32ad59b834981bcf8f8c0fc55900d30d9fdfc4870f7f6d4&">
+    ![@marcosalves90 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=marcosalves90)
 </div>
 
 ##
@@ -38,7 +39,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosAlves90/MarcosAlves90/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcosAlves90/MarcosAlves90/output/github-contribution-grid-snake.svg">
 </picture>
-
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@marcosalves90/30-nites-of-code)  
-  ![@marcosalves90 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=marcosalves90)

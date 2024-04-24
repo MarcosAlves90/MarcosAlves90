@@ -38,3 +38,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosAlves90/MarcosAlves90/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcosAlves90/MarcosAlves90/output/github-contribution-grid-snake.svg">
 </picture>
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@marcosalves90/30-nites-of-code)  
+  ![@marcosalves90 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=marcosalves90)

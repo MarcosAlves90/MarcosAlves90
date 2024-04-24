@@ -7,6 +7,7 @@
 - 🪐 Fato curioso: Sou extremamente criativo.
 
 ##
+
 <div align="center">
   <a href="https://github.com/MarcosAlves90">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosalves90&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -38,6 +39,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosAlves90/MarcosAlves90/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcosAlves90/MarcosAlves90/output/github-contribution-grid-snake.svg">
 </picture>
-
-  ![@marcosalves90 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=marcosalves90)
-

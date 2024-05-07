@@ -8,6 +8,8 @@
 
 ##
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <div align="center">
   <a href="https://github.com/MarcosAlves90">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosalves90&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -15,7 +17,6 @@
 </div>
    
 <div style="display: inline_block"><br>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
   <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/967956966238466091/1210264709295644782/CobaltoPrancheta_14x-modified.png?ex=66181258&is=66059d58&hm=dadde1ecc496baf5a32ad59b834981bcf8f8c0fc55900d30d9fdfc4870f7f6d4&">
 </div>
 

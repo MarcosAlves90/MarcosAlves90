@@ -10,15 +10,21 @@
 
 <div align="center">
   <a href="https://github.com/MarcosAlves90">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosalves90&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosalves90&layout=compact&langs_count=7&theme=gotham"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosalves90&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/MarcosAlves90">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosalves90&layout=compact&langs_count=7&theme=gotham"/>
+  </a>
 </div>
    
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode,git,js,py,html,css,bootstrap" alt="Minhas Habilidades">
-  <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="CobaltoPrancheta.png">
+  <a href="https://github.com/MarcosAlves90">
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode,git,js,py,html,css,bootstrap" alt="Minhas Habilidades">
+  </a>
+  <a href="https://github.com/MarcosAlves90">
+    <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="CobaltoPrancheta.png">
+  </a>
 </div>
-
 ##
 
 <div>

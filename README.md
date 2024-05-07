@@ -22,7 +22,7 @@
     <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode,git,js,py,html,css,bootstrap" alt="Minhas Habilidades">
   </a>
   <a href="https://github.com/MarcosAlves90">
-    <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="CobaltoPrancheta.png">
+    <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="green_theme_cat.png">
   </a>
 </div>
 
@@ -36,5 +36,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosAlves90/MarcosAlves90/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcosAlves90/MarcosAlves90/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcosAlves90/MarcosAlves90/output/github-contribution-grid-snake-dark.svg">
 </picture>

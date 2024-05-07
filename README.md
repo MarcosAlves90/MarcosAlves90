@@ -13,10 +13,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosalves90&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosalves90&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
    
 <div style="display: inline_block"><br>
+  <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="My Skills">
+  </a>
   <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/967956966238466091/1210264709295644782/CobaltoPrancheta_14x-modified.png?ex=66181258&is=66059d58&hm=dadde1ecc496baf5a32ad59b834981bcf8f8c0fc55900d30d9fdfc4870f7f6d4&">
 </div>
 

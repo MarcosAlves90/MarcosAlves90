@@ -15,7 +15,9 @@
 </div>
    
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode,git,js,py,html,css,bootstrap" alt="My Skills">
+  <span>
+  <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode,git,js,py,html,css,bootstrap" alt="Minhas Habilidades">
+  </span>
   <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/967956966238466091/1210264709295644782/CobaltoPrancheta_14x-modified.png?ex=66181258&is=66059d58&hm=dadde1ecc496baf5a32ad59b834981bcf8f8c0fc55900d30d9fdfc4870f7f6d4&">
 </div>
 

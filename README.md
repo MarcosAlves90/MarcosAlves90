@@ -10,9 +10,9 @@
 
 <!-- ./STAT -->
 <div align="center">  
-  <img width="54%" height="45%" src="https://github-readme-stats.vercel.app/api?username=MarcosAlves90&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=ccc&text_color=eee&bg_color=101010" alt="MarcosAlves90 github stats" /> 
+  <img width="54%" height="45%" src="https://github-readme-stats.vercel.app/api?username=MarcosAlves90&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=ccc&text_color=eee&bg_color=080e09" alt="MarcosAlves90 github stats" /> 
  
-  <img width="41%" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlves90&layout=compact&hide_border=true&title_color=fff&text_color=eee&bg_color=101010" />
+  <img width="41%" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlves90&layout=compact&hide_border=true&title_color=fff&text_color=eee&bg_color=080e09" />
 </div>
 
 <div align="center" width="90%">

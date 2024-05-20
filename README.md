@@ -8,14 +8,15 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/MarcosAlves90">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosalves90&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/MarcosAlves90">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosalves90&layout=compact&langs_count=7&theme=gotham"/>
-  </a>
+<!-- ./STAT -->
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=MarcosAlves90&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=ccc&text_color=eee&bg_color=444" alt="MarcosAlves90 github stats" /> 
+ 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlves90&layout=compact&hide_border=true&title_color=fff&text_color=eee&bg_color=444" />
 </div>
+
+<div align="center" width="90%">
+
    
 <div style="display: inline_block"><br>
   <a href="https://github.com/MarcosAlves90">

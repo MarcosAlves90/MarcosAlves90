@@ -15,6 +15,8 @@
   <img width="41%" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlves90&layout=compact&border_color=8fb276&title_color=fff&text_color=eee&bg_color=080b0f" />
 </div>
 
+<div align="center" width="90%">
+
    
 <div style="display: inline_block"><br>
   <a href="https://github.com/MarcosAlves90">

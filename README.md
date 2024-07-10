@@ -1,10 +1,10 @@
 ## 📌 Marcos Alves, debugando a vida! 
 
 
-- 📖 Cursando Desenvolvimento de Software Multiplataforma.
-- 📒 Técnico em Informática para Internet.
+- 💻 Cursando Desenvolvimento de Software Multiplataforma.
+- 📓 Técnico em Informática para Internet.
 - 📧 E-mail: MarcosAlves25@proton.me
-- 🪐 Fato curioso: Sou extremamente criativo.
+- 📚 Livro Favorito: "O Homem que Caiu na Terra" por Walter Tevis.
 
 ##
 

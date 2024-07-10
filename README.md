@@ -1,7 +1,7 @@
 ## 📌 Marcos Alves, debugando a vida! 
 
 
-- 📖 Estudando Desenvolvimento de Software Multiplataforma.
+- 📖 Cursando Desenvolvimento de Software Multiplataforma.
 - 📒 Técnico em Informática para Internet.
 - 📧 E-mail: MarcosAlves25@proton.me
 - 🪐 Fato curioso: Sou extremamente criativo.

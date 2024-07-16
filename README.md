@@ -9,17 +9,26 @@
 ##
 
   <a href="https://github.com/MarcosAlves90">
-    <img align="left" alt="KaSugari" width="185px" style="border-radius:50px;" src="green_theme_cat.png">
+    <img align="left" alt="KaSugari" width="340px" style="border-radius:50px;" src="green_theme_cat.png">
   </a>
 
 
 ```javascript
+/**
+ * Inicia o processo de criação do universo.
+ * Retorna uma representação simbólica do universo.
+ */
 function bigBang() {
-    return '🌌';
+    // Simula a criação do universo
+    return '🌌'; // Representa o universo
 }
 ```
 
 ```javascript
+/**
+ * Função principal para criar um novo universo.
+ * Utiliza a função bigBang para iniciar a criação.
+ */
 function criarUniverso() {
     return bigBang();
 }

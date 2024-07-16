@@ -9,7 +9,7 @@
 ##
 
 <!-- ./STAT -->
-<div>  
+<div style="">  
 
   <a href="https://github.com/MarcosAlves90">
     <img align="left" alt="KaSugari" height="150px" style="border-radius:50px;" src="green_theme_cat.png">
@@ -23,7 +23,7 @@
 
 </div>
    
-<div style="margin-top: 5rem"><br>
+<div style="display: flex; justify-content: center; width: 100%; margin-top: 15vh"><br>
   <a href="https://github.com/MarcosAlves90">
     <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode,git,js,react,vite,py,html,css,scss,bootstrap" alt="Minhas Habilidades">
   </a>

@@ -9,7 +9,7 @@
 ##
 
 <!-- ./STAT -->
-<div align="center" style="magin-bottom: 2rem">  
+<div align="center">  
 
   <a href="https://github.com/MarcosAlves90">
     <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="green_theme_cat.png">

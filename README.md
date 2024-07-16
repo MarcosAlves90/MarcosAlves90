@@ -9,7 +9,7 @@
 ##
 
   <a href="https://github.com/MarcosAlves90">
-    <img align="left" alt="KaSugari" width="340px" style="border-radius:50px;" src="outer_space_gif_by_michael_shillingburg.gif">
+    <img align="left" alt="KaSugari" width="340px" style="border-radius:50px;" src="universe.png">
   </a>
 
 

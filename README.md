@@ -10,10 +10,17 @@
 
 <!-- ./STAT -->
 <div align="center">  
-  <img width="54%" height="45%" src="https://github-readme-stats.vercel.app/api?username=MarcosAlves90&show_icons=true&count_private=true&border_color=8fb276&title_color=fff&icon_color=ccc&text_color=eee&bg_color=080b0f" alt="MarcosAlves90 github stats" /> 
- 
-  <img width="41%" height="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosAlves90&layout=compact&border_color=8fb276&title_color=fff&text_color=eee&bg_color=080b0f" />
-</div>
+
+  <a href="https://github.com/MarcosAlves90">
+    <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="green_theme_cat.png">
+  </a>
+  
+  
+  ```javascript
+    function criarUniverso() {
+    return "Big Bang"
+  }
+  ```
 
 <div align="center" width="90%">
 
@@ -21,9 +28,6 @@
 <div style="display: inline_block"><br>
   <a href="https://github.com/MarcosAlves90">
     <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode,git,js,react,vite,py,html,css,scss,bootstrap" alt="Minhas Habilidades">
-  </a>
-  <a href="https://github.com/MarcosAlves90">
-    <img align="right" alt="KaSugari" height="150" style="border-radius:50px;" src="green_theme_cat.png">
   </a>
 </div>
 

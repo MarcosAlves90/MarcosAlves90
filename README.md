@@ -18,7 +18,7 @@
   
   ```javascript
     function criarUniverso() {
-    return "Big Bang"
+  return "Big Bang"
   }
   ```
 

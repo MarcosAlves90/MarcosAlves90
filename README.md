@@ -18,7 +18,8 @@
   
   ```javascript
     function criarUniverso() {
-  return "Big Bang"}
+  return "Big Bang"
+}
   ```
 
 <div align="center" width="90%">

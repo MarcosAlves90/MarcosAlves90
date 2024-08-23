@@ -3,7 +3,7 @@
 
 - 💻 Cursando Desenvolvimento de Software Multiplataforma.
 - 📓 Técnico em Informática para Internet.
-- 📧 E-mail: MarcosAlves25@proton.me
+- 📧 E-mail: marcos.a.lopes7701@gmail.com
 - 📚 Livro Favorito: "O Homem que Caiu na Terra" por Walter Tevis.
 
 ##

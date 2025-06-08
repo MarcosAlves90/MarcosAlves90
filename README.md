@@ -36,7 +36,7 @@ function criarUniverso() {
 
 <div align="center"><br>
   <a href="https://github.com/MarcosAlves90">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode,git,java,c,php,laravel,js,ts,react,vue,nuxtjs,vite,py,docker,html,css,scss,bootstrap" alt="Minhas Habilidades">
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode,git,java,spring,c,php,laravel,js,ts,react,vue,nuxtjs,vite,py,docker,html,css,scss,bootstrap" alt="Minhas Habilidades">
   </a>
 </div>
 

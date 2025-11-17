@@ -31,6 +31,8 @@ function criarUniverso()
 end
 ```
 
+##
+
 ```lua
 -- Minhas habilidades categorizadas.
 local habilidades = {

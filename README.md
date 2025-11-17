@@ -31,18 +31,11 @@ function criarUniverso()
 end
 ```
 
-##
-
-```lua
--- Minhas habilidades categorizadas.
-local habilidades = {
-  ferramentasDesign = {'Photoshop', 'Illustrator', 'Figma'},
-  ferramentasDesenvolvimento = {'VS Code', 'Git', 'Docker'},
-  linguagensProgramacao = {'C', 'Java', 'PHP', 'JavaScript', 'TypeScript', 'Python'},
-  tecnologiasWeb = {'HTML', 'CSS', 'SCSS', 'Bootstrap'},
-  frameworksBibliotecas = {'Spring', 'Laravel', 'React', 'Next.js', 'Vue', 'Nuxt.js', 'Vite', 'FastAPI', 'Firebase'}
-}
-```
+<div align="center"><br>
+  <a href="https://github.com/MarcosAlves90">
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode,git,java,spring,c,php,laravel,js,ts,react,nextjs,vue,nuxtjs,vite,py,fastapi,firebase,docker,html,css,scss,bootstrap" alt="Minhas Habilidades">
+  </a>
+</div>
 
 ##
 

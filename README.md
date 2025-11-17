@@ -1,50 +1,52 @@
-## 🪐 Marcos Alves, debugando a vida! 
+## 🌌 Marcos Alves: Debugando o Universo, Codificando a Vida!
+
+ 
 
 
 - 💻 Cursando Desenvolvimento de Software Multiplataforma.
-- 📓 Técnico em Informática para Internet.
-- 📧 E-mail: marcos.a.lopes7701@gmail.com
+- 📓 Técnico em Informática para Internet
+- 📧 E-mail: [marcos.a.lopes7701@gmail.com](mailto:marcos.a.lopes7701@gmail.com)
 - 📚 Livro Favorito: "O Homem que Caiu na Terra" por Walter Tevis.
 
 ##
 
-  <a href="https://github.com/MarcosAlves90">
-    <img align="left" alt="KaSugari" width="340px" style="border-radius:50px;" src="universe_image.png">
-  </a>
+<a href="https://github.com/MarcosAlves90">
+  <img align="left" alt="KaSugari" width="340px" style="border-radius:50px;" src="universe_image.png">
+</a>
 
-
-```javascript
-/**
- * Inicia o processo de criação do universo.
- * Retorna uma representação simbólica do universo.
- */
-function bigBang() {
-    // Simula a criação do universo
-    return '🌌'; // Representa o universo
-}
+```lua
+-- Inicia o processo de criação do universo.
+-- Retorna uma representação simbólica do universo.
+function bigBang()
+    -- Simula a criação do universo
+    return '🌌' -- Representa o universo
+end
 ```
 
-```javascript
-/**
- * Função principal para criar um novo universo.
- * Utiliza a função bigBang para iniciar a criação.
- */
-function criarUniverso() {
-    return bigBang();
-}
+```lua
+-- Função principal para criar um novo universo.
+-- Utiliza a função bigBang para iniciar a criação.
+function criarUniverso()
+    return bigBang()
+end
 ```
 
-<div align="center"><br>
-  <a href="https://github.com/MarcosAlves90">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,vscode,git,java,spring,c,php,laravel,js,ts,react,nextjs,vue,nuxtjs,vite,py,fastapi,firebase,docker,html,css,scss,bootstrap" alt="Minhas Habilidades">
-  </a>
-</div>
+```lua
+-- Minhas habilidades categorizadas.
+local habilidades = {
+  ferramentasDesign = {'Photoshop', 'Illustrator', 'Figma'},
+  ferramentasDesenvolvimento = {'VS Code', 'Git', 'Docker'},
+  linguagensProgramacao = {'C', 'Java', 'PHP', 'JavaScript', 'TypeScript', 'Python'},
+  tecnologiasWeb = {'HTML', 'CSS', 'SCSS', 'Bootstrap'},
+  frameworksBibliotecas = {'Spring', 'Laravel', 'React', 'Next.js', 'Vue', 'Nuxt.js', 'Vite', 'FastAPI', 'Firebase'}
+}
+```
 
 ##
 
 <div align="center">
-  <a href="https://twitter.com/yellowpinguim" target="_blank"> <img alt ="KaSugariTwitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
-  <a href="mailto:MarcosAlves25@proton.me" target="_blank"> <img alt ="KaSugariProtonMail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></img></a>
+  <a href="mailto:marcos.a.lopes7701@gmail.com" target="_blank"> <img alt ="KaSugariGmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+  <a href="https://www.instagram.com/marcos.pilgrim" target="_blank"> <img alt ="KaSugariInstagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
   <a href="https://www.linkedin.com/in/marcosalveslopesjunior" target="_blank"> <img alt ="KaSugariLinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </div>
 

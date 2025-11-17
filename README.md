@@ -1,5 +1,4 @@
-## 🪐 Marcos Alves, debugando a vida! 
-
+## 🌌 Marcos Alves: Debugando o Universo, Codificando a Vida!
 
 - 💻 Cursando Desenvolvimento de Software Multiplataforma.
 - 📓 Técnico em Informática para Internet.

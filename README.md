@@ -40,10 +40,10 @@ function criarUniverso() {
  */
 const habilidades = {
   ferramentasDesign: ['Photoshop', 'Illustrator', 'Figma'],
-  ferramentasDesenvolvimento: ['VS Code', 'Git', 'Docker'],
-  linguagensProgramacao: ['C', 'Java', 'PHP', 'JavaScript', 'TypeScript', 'Python'],
-  tecnologiasWeb: ['HTML', 'CSS', 'SCSS', 'Bootstrap'],
-  frameworksBibliotecas: ['Spring', 'Laravel', 'React', 'Next.js', 'Vue', 'Nuxt.js', 'Vite', 'FastAPI', 'Firebase']
+  ferramentasDesenvolvimento: ['VS Code', 'Git', 'Docker', 'Android Studio'],
+  linguagensProgramacao: ['C', 'Java', 'PHP', 'JavaScript', 'TypeScript', 'Python', 'Dart', 'Kotlin'],
+  tecnologiasWeb: ['HTML', 'CSS', 'SCSS', 'TailwindCSS', 'Bootstrap'],
+  frameworksBibliotecas: ['Spring', 'Laravel', 'React', 'Next.js', 'Vue', 'Nuxt.js', 'Vite', 'Angular', 'FastAPI', 'Firebase', 'Flutter', 'Electron', 'Tkinter']
 };
 ```
 

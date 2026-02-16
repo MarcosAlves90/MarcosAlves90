@@ -1,11 +1,15 @@
-## 🌌 Marcos Alves: Debugando o Universo, Codificando a Vida!
+## 🌌 Marcos Lopes: Debugging the Universe, Engineering Life with Code!
 
-- 💻 Cursando Desenvolvimento de Software Multiplataforma.
-- 📓 Técnico em Informática para Internet.
-- 📧 E-mail: marcos.a.lopes7701@gmail.com
-- 📚 Livro Favorito: "O Homem que Caiu na Terra" por Walter Tevis.
+### Full Stack Developer
 
-##
+Focused on building robust systems, modern web applications, and multiplatform solutions. Experience includes software architecture, API development, reactive front-end interfaces, and service integration.
+
+## Education
+
+* 🎓 Multiplatform Software Development (in progress)
+* 🎓 Technical Degree in Internet Informatics
+
+---
 
   <a href="https://github.com/MarcosAlves90">
     <img align="left" alt="KaSugari" width="340px" style="border-radius:50px;" src="universe_image.png">
@@ -13,47 +17,44 @@
 
 ```javascript
 /**
- * Inicia o processo de criação do universo.
- * Retorna uma representação simbólica do universo.
+ * Initiates the universe creation process.
+ * Returns a symbolic representation of the universe.
  */
 function bigBang() {
-    // Simula a criação do universo
-    return '🌌'; // Representa o universo
+    // Simulates the creation of the universe
+    return '🌌'; // Represents the universe
 }
 ```
 
 ```javascript
 /**
- * Função principal para criar um novo universo.
- * Utiliza a função bigBang para iniciar a criação.
+ * Primary function to create a new universe.
+ * Utilizes the bigBang function to commence creation.
  */
-function criarUniverso() {
+function createUniverse() {
     return bigBang();
 }
 ```
 
-
-
 ```javascript
 /**
- * Minhas habilidades categorizadas.
+ * My categorized skills.
  */
-const habilidades = {
-  ferramentasDesign: ['Photoshop', 'Illustrator', 'Figma'],
-  ferramentasDesenvolvimento: ['VS Code', 'Git', 'Docker', 'Android Studio'],
-  linguagensProgramacao: ['C', 'Java', 'PHP', 'JavaScript', 'TypeScript', 'Python', 'Dart', 'Kotlin'],
-  tecnologiasWeb: ['HTML', 'CSS', 'SCSS', 'TailwindCSS', 'Bootstrap'],
-  frameworksBibliotecas: ['Spring', 'Laravel', 'React', 'Next.js', 'Vue', 'Nuxt.js', 'Vite', 'Angular', 'FastAPI', 'Firebase', 'Flutter', 'Electron', 'Tkinter']
+const skills = {
+  designTools: ['Photoshop', 'Illustrator', 'Figma'],
+  developmentTools: ['VS Code', 'Git', 'Docker', 'Android Studio'],
+  programmingLanguages: ['C', 'C#', 'C++', 'Java', 'PHP', 'JavaScript', 'TypeScript', 'Python', 'Dart', 'Kotlin'],
+  webTechnologies: ['HTML', 'CSS', 'SCSS', 'TailwindCSS', 'Bootstrap'],
+  frameworksAndLibraries: ['Spring', 'Laravel', 'React', 'Next.js', 'Vue', 'Nuxt.js', 'Vite', 'Angular', 'FastAPI', 'Firebase', 'Flutter', 'Electron', 'Tkinter']
 };
 ```
 
-##
+## 📫 Contact
 
-<div align="center">
-  <a href="mailto:marcos.a.lopes7701@gmail.com" target="_blank"> <img alt ="KaSugariGmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
-  <a href="https://www.instagram.com/marcos.pilgrim" target="_blank"> <img alt ="KaSugariInstagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-  <a href="https://www.linkedin.com/in/marcosalveslopesjunior" target="_blank"> <img alt ="KaSugariLinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-</div>
+* Portfolio: [marcospilgrim.com.br](https://marcospilgrim.com.br)
+* Email: [marcos.a.lopes7701@gmail.com](mailto:marcos.a.lopes7701@gmail.com)
+* LinkedIn: [in/marcosalveslopesjunior](https://linkedin.com/in/marcosalveslopesjunior)
+* Instagram: [instagram.com/marcos.pilgrim](https://instagram.com/marcos.pilgrim)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosAlves90/MarcosAlves90/output/github-contribution-grid-snake-dark.svg">

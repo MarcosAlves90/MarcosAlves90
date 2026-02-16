@@ -9,11 +9,9 @@ Focused on building robust systems, modern web applications, and multiplatform s
 * 🎓 Multiplatform Software Development (in progress)
 * 🎓 Technical Degree in Internet Informatics
 
----
-
-  <a href="https://github.com/MarcosAlves90">
-    <img align="left" alt="KaSugari" width="340px" style="border-radius:50px;" src="universe_image.png">
-  </a>
+<a href="https://github.com/MarcosAlves90">
+<img align="left" alt="KaSugari" width="340px" src="universe_image.png">
+</a>
 
 ```javascript
 /**
@@ -55,8 +53,3 @@ const skills = {
 * Email: [marcos.a.lopes7701@gmail.com](mailto:marcos.a.lopes7701@gmail.com)
 * LinkedIn: [in/marcosalveslopesjunior](https://linkedin.com/in/marcosalveslopesjunior)
 * Instagram: [instagram.com/marcos.pilgrim](https://instagram.com/marcos.pilgrim)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosAlves90/MarcosAlves90/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcosAlves90/MarcosAlves90/output/github-contribution-grid-snake-dark.svg">
-</picture>

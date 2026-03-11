@@ -51,5 +51,5 @@ const skills = {
 
 * Portfolio: [marcospilgrim.com.br](https://marcospilgrim.com.br)
 * Email: [marcos.a.lopes7701@gmail.com](mailto:marcos.a.lopes7701@gmail.com)
-* LinkedIn: [in/marcosalveslopesjunior](https://linkedin.com/in/marcosalveslopesjunior)
+* LinkedIn: [in/marcospilgrim](https://linkedin.com/in/marcospilgrim)
 * Instagram: [instagram.com/marcos.pilgrim](https://instagram.com/marcos.pilgrim)

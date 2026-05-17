@@ -1,13 +1,18 @@
-## 🌌 Marcos Lopes: Debugging the Universe, Engineering Life with Code!
+## 🌌 Marcos Lopes — Engineering Scalable Systems, Turning Complexity into Code.
 
-### Full Stack Developer
+### Full Stack Software Engineer
 
-Focused on building robust systems, modern web applications, and multiplatform solutions. Experience includes software architecture, API development, reactive front-end interfaces, and service integration.
+Full Stack Software Engineer focused on building scalable systems with strong backend foundations and production-ready architecture. Specialized in integrating AI solutions (RAG) and Enterprise systems (SAP ERP) to drive business efficiency.
+
+## Experience
+
+* 💼 Software Developer Intern (Full Stack) @ CI&T — Present
 
 ## Education
 
-* 🎓 Multiplatform Software Development (in progress)
+* 🎓 Multiplatform Software Development — Present
 * 🎓 Technical Degree in Internet Informatics
+
 
 <a href="https://github.com/MarcosAlves90">
 <img align="left" alt="KaSugari" width="340px" src="universe_image.png">
@@ -15,8 +20,8 @@ Focused on building robust systems, modern web applications, and multiplatform s
 
 ```javascript
 /**
- * Initiates the universe creation process.
- * Returns a symbolic representation of the universe.
+ * Simulates a primordial cosmological singularity.
+ * Returns a symbolic spacetime representation.
  */
 function bigBang() {
     // Simulates the creation of the universe
@@ -26,8 +31,8 @@ function bigBang() {
 
 ```javascript
 /**
- * Primary function to create a new universe.
- * Utilizes the bigBang function to commence creation.
+ * Initializes a new observable universe instance
+ * through singularity expansion dynamics.
  */
 function createUniverse() {
     return bigBang();
@@ -36,14 +41,14 @@ function createUniverse() {
 
 ```javascript
 /**
- * My categorized skills.
+ * Technical skill set.
  */
 const skills = {
-  designTools: ['Photoshop', 'Illustrator', 'Figma'],
-  developmentTools: ['VS Code', 'Git', 'Docker', 'Android Studio'],
-  programmingLanguages: ['C', 'C#', 'C++', 'Java', 'PHP', 'JavaScript', 'TypeScript', 'Python', 'Dart', 'Kotlin'],
-  webTechnologies: ['HTML', 'CSS', 'SCSS', 'TailwindCSS', 'Bootstrap'],
-  frameworksAndLibraries: ['Spring', 'Laravel', 'React', 'Next.js', 'Vue', 'Nuxt.js', 'Vite', 'Angular', 'FastAPI', 'Firebase', 'Flutter', 'Electron', 'Tkinter']
+  languages: ['Java', 'JavaScript', 'TypeScript', 'Python', 'C', 'C#', 'C++', 'PHP', 'Kotlin', 'Dart'],
+  frontend: ['React', 'Next.js', 'Vue', 'Nuxt.js', 'Angular', 'Vite', 'Tailwind CSS', 'SCSS', 'Bootstrap'],
+  backend: ['Spring', 'Laravel', 'FastAPI', 'Firebase'],
+  mobileDesktop: ['Flutter', 'Electron', 'Tkinter'],
+  tools: ['Git', 'Docker', 'VS Code', 'Android Studio', 'Figma', 'Photoshop', 'Illustrator']
 };
 ```
 

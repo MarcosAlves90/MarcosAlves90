@@ -44,7 +44,7 @@ function createUniverse() {
  * Technical skill set.
  */
 const skills = {
-  languages: ['Java', 'JavaScript', 'TypeScript', 'Python', 'C', 'C#', 'C++', 'PHP', 'Kotlin', 'Dart'],
+  languages: ['Java', 'JavaScript', 'TypeScript', 'Python', 'C', 'C#', 'C++', 'PHP', 'Kotlin', 'Dart', 'Rust'],
   frontend: ['React', 'Next.js', 'Vue', 'Nuxt.js', 'Angular', 'Vite', 'Tailwind CSS', 'SCSS', 'Bootstrap'],
   backend: ['Spring', 'Laravel', 'FastAPI', 'Firebase'],
   mobileDesktop: ['Flutter', 'Electron', 'Tkinter'],

@@ -2,7 +2,7 @@
 
 ### Full Stack Software Engineer
 
-Full Stack Software Engineer focused on building scalable systems with strong backend foundations and production-ready architecture. Specialized in integrating AI solutions (RAG) and Enterprise systems (SAP ERP) to drive business efficiency.
+Software Engineer focused on Software Architecture, Distributed Systems, AI Engineering, and Full-Stack Development, with experience designing scalable applications, integrating enterprise systems, and building production-ready solutions across backend, frontend, and AI-driven architectures.
 
 ## Experience
 

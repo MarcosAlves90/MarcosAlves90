@@ -48,7 +48,8 @@ const stack = {
   frontend: ['React', 'Next.js', 'Tailwind CSS'],
   backend: ['Spring Boot', 'FastAPI', 'REST APIs'],
   architecture: ['Microservices', 'Distributed Systems', 'Enterprise Integration', 'Kafka', 'RAG'],
-  tools: ['Git', 'Docker', 'Figma']
+  infrastructure: ['Docker', 'Kubernetes'],
+  tools: ['Git', 'Figma']
 };
 ```
 

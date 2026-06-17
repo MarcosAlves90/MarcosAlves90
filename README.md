@@ -43,12 +43,12 @@ function createUniverse() {
 /**
  * Technical skill set.
  */
-const skills = {
-  languages: ['Java', 'JavaScript', 'TypeScript', 'Python', 'C', 'C#', 'C++', 'PHP', 'Kotlin', 'Dart', 'Rust'],
-  frontend: ['React', 'Next.js', 'Vue', 'Nuxt.js', 'Angular', 'Vite', 'Tailwind CSS', 'SCSS', 'Bootstrap'],
-  backend: ['Spring', 'Laravel', 'FastAPI', 'Firebase'],
-  mobileDesktop: ['Flutter', 'Electron', 'Tkinter'],
-  tools: ['Git', 'Docker', 'VS Code', 'Android Studio', 'Figma', 'Photoshop', 'Illustrator']
+const stack = {
+  main: ['Java', 'TypeScript', 'Python'],
+  frontend: ['React', 'Next.js', 'Tailwind CSS'],
+  backend: ['Spring Boot', 'FastAPI', 'REST APIs'],
+  architecture: ['Microservices', 'Distributed Systems', 'Enterprise Integration', 'Kafka', 'RAG'],
+  tools: ['Git', 'Docker', 'Figma']
 };
 ```
 
